@@ -1,5 +1,5 @@
 # Unique
-## Landing Page site
+## Landing Page
 
 - Home page
 
